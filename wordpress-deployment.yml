@@ -38,7 +38,7 @@ spec:
             - name: WORDPRESS_PASSWORD
               value: myrootpassword
             - name: WORDPRESS_EMAIL
-              value: vcad@example.com
+              value: user@example.com
           ports:
             - containerPort: 8080
           resources:
